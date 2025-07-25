@@ -1,6 +1,6 @@
 import yaml  # Imports PyYAML library to handle YAML files
 
-with open("api_data.yaml", "r") as file:  # Opens the YAML file for reading
+with open("api-data.yaml", "r") as file:  # Opens the YAML file for reading
     data = yaml.safe_load(file)  # Load/convert the YAML content into a Python dictionary
 
 # Extract the list of endpoints
