@@ -1,3 +1,3 @@
 # python-script-docs
 
-Simple API endpoint lister that reads YAML and writes endpoints to Markdown.
+Simple API endpoint script that reads a YAML file and writes the endpoints to Markdown.
