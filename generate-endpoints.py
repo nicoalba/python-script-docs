@@ -8,7 +8,7 @@ with open("api-data.yaml", "r") as file:  # Opens the YAML file for reading
 endpoints = data["endpoints"] # Access the 'endpoints' key in the dictionary (`data` variable) to get the list of API endpoints. Save it to 'endpoints' variable
 
 with open("endpoints.md", "w") as md_file: # Opens (or creates) a Markdown file to write the endpoints
-    md_file.write("# API Endpoints\n\n")  # Markdown header
+    md_file.write("# API endpoints\n\n")  # Markdown header
 
     # Loop through each endpoint in the list
     for endpoint in endpoints:

@@ -1,11 +1,14 @@
-# API Endpoints
+# API endpoints
 
-### `GET /users`
+## `GET /users`
+
 Get a list of all users
 
-### `POST /users`
+## `POST /users`
+
 Create a new user
 
-### `GET /users/{id}`
+## `GET /users/{id}`
+
 Get user details by ID
 
