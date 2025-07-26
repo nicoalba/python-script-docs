@@ -1,6 +1,6 @@
 # API endpoint lister
 
-Work in progress: Simple API endpoint script that reads a YAML file and writes the endpoints to a Markdown file.
+Work in progress: Simple Python script that reads a YAML file and writes the API endpoints to a Markdown file.
 
 ## Use the script
 
